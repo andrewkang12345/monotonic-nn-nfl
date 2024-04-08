@@ -1,4 +1,4 @@
-# Pitch Control in NFL Defense
+# Pitch Control Visualization in NFL Defense
 This project aims to use monotonic neural networks (Sill, 1997) to visualize pitch control (Fernandez & Bornn, 2018) in NFL defense.
 
 Here, I introduce a novel method to quantify and visualize NFL defense by adapting the concept of pitch control from soccer to American football. 
